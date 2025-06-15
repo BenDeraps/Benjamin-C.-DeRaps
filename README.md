@@ -1,1 +1,8 @@
-# Benjamin-C.-DeRaps
+## Hey 👋, This is Benjamin C. DeRaps
+[![Gmail Badge](https://img.shields.io/badge/-ben.c.deraps@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ben.c.deraps@gmail.com)](mailto:ben.c.deraps@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin DeRaps-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Benjamin DeRaps/)](https://www.linkedin.com/in/Benjamin DeRaps/) [![Github Badge](https://img.shields.io/badge/-Benjamin C. DeRaps -grey?style=flat&logo=github&logoColor=white&link=https://github.com/Benjamin C. DeRaps /)](https://www.github.com/Benjamin C. DeRaps /) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/BenDeraps/)](https://github.com/BenDeraps/) <p align='left'>I'm a data analyst passionate about finding meaningful insights through SQL, Excel, Tableau, Power BI, and Python. I genuinely enjoy the process of solving real world problems, building dashboards, and turning complex data into clear decisions. I'm especially interested in projects that drive real-world impact, from patient outcomes to operational efficiency.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Benjamin C. DeRaps  alt=Benjamin C. DeRaps  /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Benjamin C. DeRaps &show_icons=true&include_all_commits=true)](https://github.com/Benjamin C. DeRaps /github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin C. DeRaps &layout=compact)](https://github.com/Benjamin C. DeRaps /github-readme-stats)
